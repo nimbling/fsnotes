@@ -1,6 +1,6 @@
 ## Shortcuts
 
-This is **markdown** and **RTF** text manager. For view rendered markdown please use preview mode, shortcut – ```command + ~```, or click ```View -> Toggle preview```.
+Fsnotes can view and edit **markdown** and **RTF**. To see rendered markdown toggle preview mode (shortcut – ```command + ~```) or click ```View -> Toggle preview```.
 
 ### Keyboard shortcuts
 
